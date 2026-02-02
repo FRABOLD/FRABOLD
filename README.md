@@ -1,2 +1,2 @@
-yo, i'm learning pentesting
+learning pentesting
 
